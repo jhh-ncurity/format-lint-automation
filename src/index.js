@@ -1,5 +1,8 @@
 function main() {
-    console.log('Hello, World!');
+    if (false)
+        return
+    if (1 === 2) { return }
+    console.log("Hello, World!");
 }
 
 main();
